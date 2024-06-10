@@ -1,0 +1,58 @@
+.banner1-container {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+.banner1-max-width {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner1-container1 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner1-title {
+  fill: var(--dl-color-primary-700);
+  color: #fbfbfb;
+  text-align: center;
+}
+.banner1-text {
+  fill: var(--dl-color-primary-700);
+  color: #ffffff;
+  text-align: center;
+}
+.banner1-link {
+  fill: var(--dl-color-primary-700);
+  color: var(--dl-color-primary-700);
+  text-decoration: none;
+  background-color: #7a08bf;
+}
+.banner1-root-class-name {
+  top: 0px;
+  fill: var(--dl-color-theme-neutral-dark);
+  flex: 0;
+  left: 0px;
+  color: var(--dl-color-theme-neutral-dark);
+  position: absolute;
+}
+.banner1-root-class-name1 {
+  top: 0px;
+  fill: var(--dl-color-gray-black);
+  left: 0px;
+  color: var(--dl-color-gray-black);
+  position: absolute;
+  background-image: linear-gradient(to bottom, #00ffff 0%, #800080 100%);
+}
+.banner1-root-class-name2 {
+  top: 0px;
+  fill: var(--dl-color-gray-black);
+  left: 0px;
+  color: var(--dl-color-gray-black);
+  position: absolute;
+  background-image: linear-gradient(to bottom, #00ffff 0%, #800080 100%);
+}
